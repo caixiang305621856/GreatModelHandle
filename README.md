@@ -1,6 +1,9 @@
 # GreatModelHandle
 动态创建模型的属性，妈妈再也不用担心我写错单词了！
+pod ‘GreatModelHandle’
 
+
+# 简单的上传代码CocoaPods上,还可以更新😯
 一.在Github上面新建一个项目
 
 这个应该是很简单的，如果不明白就自行google,简简单单的几行git操作就行
