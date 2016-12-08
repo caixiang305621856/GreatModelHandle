@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 s.name = 'GreatModelHandle'
 s.version = '1.0.1'
 s.license = 'MIT'
-s.summary = 'A in iOS.'
+s.summary = '动态创建模型的属性，妈妈再也不用担心我写错单词了'
 s.homepage = 'https://github.com/caixiang305621856/GreatModelHandle'
 s.authors = { '616704162' => '616704162@qq.com' }
 s.source = { :git => "https://github.com/caixiang305621856/GreatModelHandle.git", :tag => "1.0.1"}
